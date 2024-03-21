@@ -23,5 +23,6 @@ public class Sum {
 			System.out.print("Not Palindrome");
 		}*/
 		System.out.print((n/100==(n%100)%10)?"p":"np");
+		System.out.println("changed");
 	}
 }
